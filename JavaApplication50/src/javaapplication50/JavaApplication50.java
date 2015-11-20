@@ -20,7 +20,7 @@ public class JavaApplication50 {
         
         
         
-        
+     System.out.print("sss");
     }
     
 }
