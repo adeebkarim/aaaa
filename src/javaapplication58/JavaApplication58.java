@@ -20,11 +20,6 @@ public class JavaApplication58 {
        System.out.print("ioo");
        
        System.out.print("");
-    
-    System.out.print("ioo");
-       
-       System.out.print("");
     }
-    
     
 }
