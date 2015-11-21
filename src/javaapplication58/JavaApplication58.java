@@ -18,6 +18,8 @@ public class JavaApplication58 {
         // TODO code application logic here
         
        System.out.print("");
+       
+       System.out.print("");
     }
     
 }
